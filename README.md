@@ -1,5 +1,5 @@
 # 功能展示
-[点此观看](https://quiethear.github.io/canvas-myFireworks/表白烟花.html "我的烟花")(建议右键新建窗口查看)
+[点此观看](https://quiethear.github.io/canvas-myFireworks/index.html "我的烟花")(建议右键新建窗口查看)
 # 参数配置
 >
     g: 0.25, // 模拟重力加速度，默认0.25
