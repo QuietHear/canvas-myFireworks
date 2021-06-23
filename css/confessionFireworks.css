@@ -1,21 +1,25 @@
 html {
-  height: 100%; }
+  height: 100%;
+}
 
 * {
-  margin: 0; }
+  margin: 0;
+}
 
 body {
   height: 100%;
   position: relative;
   width: 100%;
-  text-align: center; }
+  text-align: center;
+}
 
 canvas {
   width: 100%;
   height: 100%;
   position: absolute;
   left: 0;
-  top: 0; }
+  top: 0;
+}
 
 .delong {
   display: none;
@@ -23,23 +27,26 @@ canvas {
   height: 100%;
   position: absolute;
   z-index: 1;
-  background: #000003; }
-  .delong .again {
-    position: absolute;
-    transform: translateX(-50%) translateY(-50%);
-    left: 50%;
-    top: 50%;
-    font-size: 18px;
-    color: #fff;
-    border: 0;
-    background: #f49900;
-    border-radius: 6px;
-    height: 40px;
-    line-height: 40px;
-    padding: 0;
-    width: 100px;
-    cursor: pointer; }
-    .delong .again:hover {
-      background: #f48300; }
+  background: #000003;
+}
 
-/*# sourceMappingURL=confessionFireworks.css.map */
+.delong .again {
+  position: absolute;
+  transform: translateX(-50%) translateY(-50%);
+  left: 50%;
+  top: 50%;
+  font-size: 18px;
+  color: #fff;
+  border: 0;
+  background: #f49900;
+  border-radius: 6px;
+  height: 40px;
+  line-height: 40px;
+  padding: 0;
+  width: 100px;
+  cursor: pointer;
+}
+
+.delong .again:hover {
+  background: #f48300;
+}
